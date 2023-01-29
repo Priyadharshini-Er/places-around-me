@@ -177,7 +177,10 @@ a special abhishekham (hydration pooja) and adornment are performed on the deiti
 </body>
 </html>
 ```
+
+
 ## Output:
+
 ![output](./screenshots/outputt.png)
 
 ![output](./screenshots/ea.png)
@@ -191,7 +194,6 @@ a special abhishekham (hydration pooja) and adornment are performed on the deiti
 ![output](./screenshots/temple.png)
 
 ## Html Validation:
-
 ![output](./screenshots/mapv.png)
 ## Result:
 The program for implementing image map is executed successsfully.
